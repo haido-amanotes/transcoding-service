@@ -30,7 +30,7 @@ This project provides a file transcoding service using a Flask REST API and a Ka
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/haithanh079/transcoding-service.git
+    git clone https://github.com/haido-amanotes/transcoding-service.git
     cd transcoding-service
     ```
 
